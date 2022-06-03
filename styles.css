@@ -1,0 +1,26 @@
+img {
+    height: 200px;
+}
+
+h3 {
+	border: 8px solid blue;
+    padding: 6px;
+}
+
+p {
+	border: 5px dashed #18AD45;
+    margin: 4px;
+    padding: 4px;
+}
+
+.dog {
+	border: 6px groove #931D15;
+    margin: 4px;
+    padding: 3px;
+}
+
+.cats {
+	border: 3px solid #C2DE10;
+    margin: 5px;
+    padding: 5px;
+}
